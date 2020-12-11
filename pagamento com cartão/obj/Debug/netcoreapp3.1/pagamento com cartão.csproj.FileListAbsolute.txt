@@ -1,0 +1,13 @@
+C:\Users\adm\Desktop\exercicios-09.12-POOabstracao\pagamento com cartão\bin\Debug\netcoreapp3.1\pagamento com cartão.exe
+C:\Users\adm\Desktop\exercicios-09.12-POOabstracao\pagamento com cartão\bin\Debug\netcoreapp3.1\pagamento com cartão.deps.json
+C:\Users\adm\Desktop\exercicios-09.12-POOabstracao\pagamento com cartão\bin\Debug\netcoreapp3.1\pagamento com cartão.runtimeconfig.json
+C:\Users\adm\Desktop\exercicios-09.12-POOabstracao\pagamento com cartão\bin\Debug\netcoreapp3.1\pagamento com cartão.runtimeconfig.dev.json
+C:\Users\adm\Desktop\exercicios-09.12-POOabstracao\pagamento com cartão\bin\Debug\netcoreapp3.1\pagamento com cartão.dll
+C:\Users\adm\Desktop\exercicios-09.12-POOabstracao\pagamento com cartão\bin\Debug\netcoreapp3.1\pagamento com cartão.pdb
+C:\Users\adm\Desktop\exercicios-09.12-POOabstracao\pagamento com cartão\obj\Debug\netcoreapp3.1\pagamento com cartão.csprojAssemblyReference.cache
+C:\Users\adm\Desktop\exercicios-09.12-POOabstracao\pagamento com cartão\obj\Debug\netcoreapp3.1\pagamento com cartão.AssemblyInfoInputs.cache
+C:\Users\adm\Desktop\exercicios-09.12-POOabstracao\pagamento com cartão\obj\Debug\netcoreapp3.1\pagamento com cartão.AssemblyInfo.cs
+C:\Users\adm\Desktop\exercicios-09.12-POOabstracao\pagamento com cartão\obj\Debug\netcoreapp3.1\pagamento com cartão.csproj.CoreCompileInputs.cache
+C:\Users\adm\Desktop\exercicios-09.12-POOabstracao\pagamento com cartão\obj\Debug\netcoreapp3.1\pagamento com cartão.dll
+C:\Users\adm\Desktop\exercicios-09.12-POOabstracao\pagamento com cartão\obj\Debug\netcoreapp3.1\pagamento com cartão.pdb
+C:\Users\adm\Desktop\exercicios-09.12-POOabstracao\pagamento com cartão\obj\Debug\netcoreapp3.1\pagamento com cartão.genruntimeconfig.cache
